@@ -1,0 +1,57 @@
+li{
+    margin-left: 20px !important;
+}
+button{
+    margin-left: 20px !important;
+}
+ svg{
+    margin: 20px;
+} 
+p{
+    font-weight: bold;
+    font-family: cursive;
+} 
+#about{
+    padding: 7% 15%;
+}
+
+.author{
+    background-color: black;
+    color: white;
+    padding: 4%;
+}
+.authorh1{
+    padding-bottom: 7%;
+}
+.authorimg{
+    height: 250px;
+    width: 300px;
+    /* justify-content: center; */
+}
+.sells{
+    background-color: lightgrey;
+    margin: 2% 0;
+    padding: 5%;
+}
+.sells-text{
+    text-align: justify;
+    padding: 3% 0;
+}
+#Maria{
+    padding: 7% 15%;
+    text-align: center;
+}
+#started{
+    padding: 7% 35%;
+    text-align: center;
+    background-color: #F2F2F2;
+    
+}
+#footer{
+    padding: 7% 15%;
+    text-align: justify;
+}
+.foot-border{
+    border-right: 2px solid black;
+    padding: 0 6%;
+}
